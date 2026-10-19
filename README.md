@@ -27,12 +27,12 @@ Currently, I'm focused on building end-to-end ML architectures and deploying the
 **Languages & Others:**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🏆 Highlighted Projects
 
+*   🧠 **Smart Notes Agent:** An AI-powered Telegram bot acting as a "second brain". Built with FastAPI, it uses Whisper for fast audio transcription and LLMs for strict intent routing, automatically converting unstructured messages into categorized database actions.
 *   🛫 **Flight Delay Predictor:** An end-to-end Machine Learning pipeline predicting flight delays, enriched with real-time weather data (Open-Meteo) and served via a Dockerized FastAPI.
 *   ⛰️ **Algorithmic Outdoor Route Planning (Bachelor's Thesis):** Developed exact and metaheuristic algorithms for combinatorial optimization using geospatial datasets (OSM, DEM) to generate personalized hiking trails. Rated 'A' at NTNU.
 *   🌍 **SkyMatch (HackUPC):** Built the real-time travel matching engine and backend infrastructure (Node.js, Amadeus API, Socket.IO) for a mobile collaborative app in just 36 hours.
